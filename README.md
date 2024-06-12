@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning GNN and Mathematical aspects of Human Language Augmentation
 - 👨‍💻 All of my projects are available at [Repository]([(https://github.com/Sam-364)])
 - 💬 Ask me about **NLP, LLMs, RAG, VectorDBs, CV, Framework Management**
-- 📫 How to reach me **sambitbarik70@gmail.com**
+- 📫 Ping me hello at **sambitbarik70@gmail.com**
 
 
 <h3 align="left">Languages and Frameworks:</h3>
