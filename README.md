@@ -10,7 +10,7 @@
 - 👀 I’m interested in Deep Learning, Reinforcement Learning and Natural Language Processing
 - 🌱 I’m currently learning GNN and Mathematical aspects of Human Language Augmentation
 - 👨‍💻 All of my projects are available at https://github.com/Sam-364
-- 💬 Ask me about **NLP, LLMs, RAG, VectorDBs, CV, Framework Management**
+- 💬 Ask me about **NLP, LLMs, RAG, VectorDBs, Agents, Framework Management**
 - 📫 Ping me hello at **sambitbarik70@gmail.com**
 
 
