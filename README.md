@@ -1,18 +1,8 @@
 
 
 <h1 align="center">Hi 👋, I’m Sambit </h1>
-<h3 align="center">A Machine Learning Fanatic and wannabe NLP Knight </h3>
 <img align = "right" alt = "coding" width = "400" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince0310&label=Profile%20views&color=0e75b6&style=flat" alt="prince0310" /> </p>
-
-
-- 🔭 I'm currently working on the Function Calling Adaptability of LLMs on synthetic data
-- 👀 I’m interested in Deep Learning, Reinforcement Learning and Natural Language Processing
-- 🌱 I’m currently learning GNN and Mathematical aspects of Human Language Augmentation
-- 👨‍💻 All of my projects are available at https://github.com/Sam-364
-- 💬 Ask me about **NLP, LLMs, RAG, VectorDBs, Agents, Framework Management**
-- 📫 Ping me hello at **sambitbarik70@gmail.com**
-
 
 <h3 align="left">Languages and Frameworks:</h3>
 <p align="left">
